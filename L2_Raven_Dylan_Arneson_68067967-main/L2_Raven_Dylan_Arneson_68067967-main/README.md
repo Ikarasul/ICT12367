@@ -1,0 +1,14 @@
+วิชา ICT12367 (การพัฒนาเว็บแอปพลิเคชัน)
+เป็นการฝึกใช้งาน **Bootstrap 5** ในการจัด Layout แบบ Grid System และตกแต่งรูปภาพด้วย **CSS**
+นายราเวิน ไดลัน อาร์เนสัน 68067967
+
+## 🛠️ Technologies Used
+- HTML5
+- Bootstrap 5 (CDN)
+- CSS3 (Hover Effects, Transitions, Box-shadow)
+
+## ✨ Features
+- **Responsive Design:** รองรับการแสดงผลบนมือถือและเดสก์ท็อป
+- **Hover Effects:** รูปภาพจะขยาย (Zoom) และมีเงาเมื่อนำเมาส์ไปชี้
+- **Navbar:** เมนูนำทางด้านบนแบบ Responsive
+
